@@ -1,1 +1,3 @@
 # CS115HW2
+This project is basically the foundation of scrabble where letters make up a word with points. 
+This was the hardest project I had ever done to date. The hardest part was creating a method which would return whether or not a word was valid and could be made with the rack given. Currently I am learning recurssion and this project helped me understand the pattern of recursion and the abilities of conversion. This project also developed my grit because trying to envision code that could solve this lead me to many deadends and only made the success more sweet. Finally, this code taught me that even when drafting code, it is important to include docstrings as to not get lost within your own ideas. 
